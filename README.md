@@ -4,7 +4,7 @@
 
 ### 💬 [BLOG](http://www.taohan.xyz)
 
-### 🌱 Rust
+### 🌱 [Rust](https://www.rust-lang.org/)
 
 <!--
 **DreamSaddle/DreamSaddle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

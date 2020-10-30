@@ -20,10 +20,10 @@
 
 <div style='display: flex;flex-direction: row;align-items: start;justify-content: start;'>
 <div>
-<img src='https://github-readme-stats.vercel.app/api?username=DreamSaddle&show_icons=true&bg_color=start,37ecba,72afd3&text_color=ffffff&title_color=ffffff' alt='My GitHub Stats' />
+<img src='https://github-readme-stats.vercel.app/api?username=DreamSaddle&show_icons=true&bg_color=start,330867,30cfd0&text_color=ffffff&title_color=ffffff' alt='My GitHub Stats' />
 </div>
 <div>
-<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=DreamSaddle&layout=compact&bg_color=start,72afd3,37ecba&text_color=ffffff&title_color=ffffff' alt='My GitHub Top Langs' />
+<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=DreamSaddle&layout=compact&bg_color=start,330867,30cfd0&text_color=ffffff&title_color=ffffff' alt='My GitHub Top Langs' />
 </div>
 </div>
 <!--

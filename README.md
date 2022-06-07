@@ -14,7 +14,7 @@
 
 ### Hey, Welcome! 👋
 
-### 💬 [BLOG](http://www.taohan.xyz)
+### 💬 [BLOG](https://www.taohan.xyz)
 
 ### 🌱 [Golang](https://golang.org/)
 
